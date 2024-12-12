@@ -35,12 +35,12 @@ I conducted this project to demonstrate SQL query writing, data extraction, and 
 
 ### 1. Count Distinct Countries
 
-....'
+```sql
 
 SELECT COUNT(DISTINCT country_name) AS total_distinct_countries
 FROM international_debt;
 
-.....
+```
 
 
 
