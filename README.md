@@ -41,14 +41,54 @@ SELECT COUNT(DISTINCT country_name) AS total_distinct_countries
 FROM international_debt;
 
 ```
+Result: 124 distinct countries
 
 
+### 2. Country with the Highest Debt
+
+```sql
+
+SELECT country_name, SUM(debt) AS total_debt
+FROM international_debt
+GROUP BY country_name
+ORDER BY total_debt DESC
+LIMIT 1;
+
+```
+
+Result: Country: China, Total Debt: $285,793,494,734.2
 
 
+### 3. Country with the Lowest Repayments
+
+```sql
+
+SELECT 
+    country_name, 
+	indicator_name,
+	MIN(debt) AS lowest_repayment
+FROM international_debt
+WHERE indicator_code='DT.AMT.DLXF.CD'
+GROUP BY country_name, indicator_name
+ORDER BY lowest_repayment
+LIMIT 1;
+
+```
+
+Result: Country: Timor-Leste, Total Repayments: $825,000
 
 
+## Project Structure
 
+### Repository Organization
 
+📁 international-debt-analysis
+├── 📁 data          # Contains the dataset (CSV/SQL dump if applicable)
+├── 📁 notebooks     # SQL scripts for analysis
+├── 📁 reports       # Analysis summaries and visualizations
+├── 📁 docs          # Documentation files
+├── README.md        # Project overview
+└── LICENSE          # Project license
 
 
 
