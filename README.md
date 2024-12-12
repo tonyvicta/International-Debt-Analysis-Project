@@ -82,16 +82,14 @@ Result: Country: Timor-Leste, Total Repayments: $825,000
 
 ### Repository Organization
 
+
 international-debt-analysis/
-├── data/          # Contains the dataset 
-├── notebooks/     # SQL scripts for analysis
+├── data/          # Contains the dataset (CSV/SQL dump if applicable)
+├── notebooks/     # SQL scripts or notebooks for analysis
 ├── reports/       # Analysis summaries and visualizations
 ├── docs/          # Documentation files
 ├── README.md      # Project overview
 └── LICENSE        # Project license
-
-
-
 
 
 
