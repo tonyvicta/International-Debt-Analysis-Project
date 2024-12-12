@@ -1,5 +1,20 @@
 # International-Debt-Analysis-Project
 
+# Table of contents 
+
+- [Project Overview](#Project-Overview)
+- [Dataset Description](#Dataset-Description)
+- [Objectives](#Objectives)
+- [SQL Queries and Results](#SQL-Queries-and-Results)
+- [Project Structure](#Project-Structure)
+- [Tools & Technologies](#Tools-&-Technologies)
+- [Deliverables](#Deliverables)
+- [How to Run](#How-to-Run)
+- [Employment Search Purpose](#Employment-Search-Purpose)
+- [Contribution Guidelines](#Contribution-Guidelines)
+- [License](#License)
+
+  
 ## Project Overview
 
 I developed this project to showcase my proficiency in SQL and data analysis, focusing on international debt data collected by The World Bank. The dataset includes information about the amount of debt (in USD) owed by developing countries across various categories. Through SQL-based analysis, I explored global debt patterns, answered critical financial questions, and produced actionable insights.
@@ -29,6 +44,7 @@ I conducted this project to demonstrate SQL query writing, data extraction, and 
 2. Highest Debt Country: Which country has the highest amount of debt?
 
 3. Lowest Repayments: Which country has the lowest amount of repayments?
+
  
 ## SQL Queries and Results
 
