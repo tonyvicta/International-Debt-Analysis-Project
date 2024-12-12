@@ -80,16 +80,61 @@ Result: Country: Timor-Leste, Total Repayments: $825,000
 
 ## Project Structure
 
-### Repository Organization
+### Workflow
+
+1. Data Loading: Load the dataset into a database management system (DBMS).
+
+2. Exploratory Analysis: Perform initial exploration to understand data quality.
+
+3. Query Execution: Write SQL queries to extract relevant insights.
+
+4. Reporting & Visualization: Summarize findings and create visual representations.
+
+## Tools & Technologies
+
+- Database Management System: PostgreSQL / MySQL / SQLite
+
+- Query Language: SQL
+
+- Data Visualization: Power BI / Tableau / Excel (optional)
+
+## Deliverables
+
+- SQL scripts answering the project questions
+
+- Analysis summary report
+
+- Relevant visualizations (if applicable)
+
+## How to Run
+
+1. Clone the repository.
+
+2. Set up the database and import the dataset.
+
+3. Execute the provided SQL queries.
+
+4. Review the output and reports.
 
 
-international-debt-analysis/
-├── data/          # Contains the dataset (CSV/SQL dump if applicable)
-├── notebooks/     # SQL scripts or notebooks for analysis
-├── reports/       # Analysis summaries and visualizations
-├── docs/          # Documentation files
-├── README.md      # Project overview
-└── LICENSE        # Project license
+## Employment Search Purpose
+
+This project serves as a practical demonstration of my technical skills in data querying, financial analysis, and database management. It highlights my ability to extract actionable insights from complex datasets—skills highly relevant for data analyst and financial crime roles.
+
+## Contribution Guidelines
+
+- Fork the repository.
+
+- Create a feature branch.
+
+- Commit changes with clear messages.
+
+- Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
 
 
 
+Disclaimer: This project is for educational and professional portfolio purposes, leveraging data provided by The World Bank.
