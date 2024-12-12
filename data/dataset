@@ -1,0 +1,12 @@
+## Dataset Description
+
+Table Name: international_debt
+
+
+| Column Name     | Description                            | Data Type |
+|-----------------|----------------------------------------|-----------|
+| `country_name`  | Name of the country                    | varchar   |
+| `country_code`  | Code representing the country          | varchar   |
+| `indicator_name`| Description of the debt indicator      | varchar   |
+| `indicator_code`| Code representing the debt indicator   | varchar   |
+| `debt`          | Value of the debt indicator (in USD)   | float     |
