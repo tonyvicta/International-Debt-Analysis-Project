@@ -24,11 +24,11 @@ Table Name: international_debt
 I conducted this project to demonstrate SQL query writing, data extraction, and analysis skills essential for data-driven decision-making in financial and business contexts. Key questions addressed include:
 
 
-- 1. Distinct Countries: How many distinct countries are present in the dataset?
+1. Distinct Countries: How many distinct countries are present in the dataset?
 
-- 2. Highest Debt Country: Which country has the highest amount of debt?
+2. Highest Debt Country: Which country has the highest amount of debt?
 
-- 2. Lowest Repayments: Which country has the lowest amount of repayments?
+3. Lowest Repayments: Which country has the lowest amount of repayments?
  
 ## SQL Queries and Results
 
