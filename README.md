@@ -1,24 +1,7 @@
 # International-Debt-Analysis-Project
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
-
-
-
-
-[![Report](https://img.youtube.com/vi/cXtoHdOgqF4/0.jpg)](https://youtu.be/cXtoHdOgqF4?si=b5mH_GmLcuUe6azY "Report")
-
-
-
-https://www.youtube.com/watch?v=StTqXEQ2l-Y
-
-
-
-https://www.youtube.com/watch?v=cXtoHdOgqF4
-
-
-
-https://youtu.be/cXtoHdOgqF4?si=b5mH_GmLcuUe6azY
+[![Report](https://img.youtube.com/vi/cXtoHdOgqF4/hqdefault.jpg)](https://youtu.be/cXtoHdOgqF4?si=b5mH_GmLcuUe6azY "Report")
 
 
 # Table of contents 
